@@ -1,4 +1,4 @@
-#IDEIAS INICIAIS#
+*IDEIAS INICIAIS*
 
 Alunos:Heitor Araujo N 35, Miguel Marega N 27
 
